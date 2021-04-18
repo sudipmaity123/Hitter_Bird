@@ -1,2 +1,2 @@
 # Hitter_Bird
-it is a 2d small game 
+it is a small two level 2d game 
